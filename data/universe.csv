@@ -1,0 +1,78 @@
+ticker,company,name,constituent,shares_m,iwf,iwf_source,shares_source,foreign_primary
+PRX,PRX,Prosus,1,2186.5,0.13,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+NPN,NPN,Naspers,1,765.1,0.97,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+VOD,VOD,Vodacom Group,1,2077.8,0.28,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+MTN,MTN,MTN Group,1,1833.7,1.00,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+APN,APN,Aspen Pharmacare,1,446.3,0.86,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+CPI,CPI,Capitec,1,116.1,0.78,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+INP,INVESTEC,Investec PLC,1,696.1,0.41,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+INL,INVESTEC,Investec Ltd,1,290.5,0.84,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+NED,NED,Nedbank Group,1,477.3,0.93,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+FSR,FSR,FirstRand,1,5609.5,0.91,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+SBK,SBK,Standard Bank Group,1,1646.5,0.78,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+ABG,ABG,Absa Group,1,894.4,0.93,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+RNI,RNI,Reinet Investments,1,195.9,0.68,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+REM,REM,Remgro,1,529.2,0.94,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+OMU,OMU,Old Mutual,1,4522.3,0.90,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+DSY,DSY,Discovery,1,682.5,0.81,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+SLM,SLM,Sanlam,1,2117.2,0.84,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+OUT,OUT,OUTsurance Group,1,1547.6,0.55,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+NRP,NRP,NEPI Rockcastle,1,712.4,0.84,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+GRT,GRT,Growthpoint Properties,1,3430.8,0.98,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+CFR,CFR,Richemont,1,537.6,0.09,FactSet 25-Sep-26,FactSet 25-Sep-26,1
+MRP,MRP,Mr Price Group,1,262.3,0.97,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+PPH,PPH,Pepkor Holdings,1,3703.4,0.98,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+ANH,ANH,Anheuser-Busch InBev,1,1797.2,0.05,FactSet 25-Sep-26,FactSet 25-Sep-26,1
+BTI,BTI,British American Tobacco,1,2305.5,0.05,FactSet 25-Sep-26,FactSet 25-Sep-26,1
+CLS,CLS,Clicks Group,1,233.9,1.00,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+BID,BID,BidCorp,1,336.9,0.99,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+SHP,SHP,Shoprite,1,591.3,0.81,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+BVT,BVT,Bidvest Group,1,340.3,1.00,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+GLN,GLN,Glencore,1,13225.0,0.08,FactSet 25-Sep-26,FactSet 25-Sep-26,1
+BHG,BHG,BHP Group,1,5081.4,0.02,FactSet 25-Sep-26,FactSet 25-Sep-26,1
+AGL,AGL,Anglo American,1,1178.1,0.24,FactSet 25-Sep-26,FactSet 25-Sep-26,1
+VAL,VAL,Valterra Platinum,1,265.3,0.91,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+PAN,PAN,Pan African Resources,1,2433.0,0.65,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+IMP,IMP,Impala Platinum,1,904.4,0.86,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+HAR,HAR,Harmony Gold,1,636.8,0.87,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+NPH,NPH,Northam Platinum,1,400.1,0.90,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+GFI,GFI,Gold Fields,1,895.0,0.99,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+SSW,SSW,Sibanye Stillwater,1,2830.6,1.00,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+ANG,ANG,AngloGold Ashanti,1,505.6,0.63,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+SOL,SOL,Sasol,1,644.3,0.91,FactSet 25-Sep-26,FactSet 25-Sep-26,0
+MTM,MTM,Momentum Group,0,,,auto,Yahoo,0
+RDF,RDF,Redefine Properties,0,,,auto,Yahoo,0
+S32,S32,South32,0,,0.12,Manual estimate (SA register share),Yahoo,1
+MNP,MNP,Mondi,0,,0.25,Manual estimate (SA register share),Yahoo,1
+KIO,KIO,Kumba Iron Ore,0,,,auto,Yahoo,0
+SNT,SNT,Santam,0,,,auto,Yahoo,0
+QLT,QLT,Quilter,0,,0.45,Manual estimate (SA register share),Yahoo,1
+NY1,NINETYONE,Ninety One (Ltd + plc),0,,0.60,Manual estimate,Yahoo,0
+HMN,HMN,Hammerson,0,,0.30,Manual estimate (SA register share),Yahoo,1
+EXX,EXX,Exxaro Resources,0,,0.65,Manual estimate (BEE + IDC stakes),Yahoo,0
+KST,KST,PSG Financial Services,0,,,auto,Yahoo,0
+TBS,TBS,Tiger Brands,0,,,auto,Yahoo,0
+DRD,DRD,DRDGold,0,,,auto,Yahoo,0
+WHL,WHL,Woolworths,0,,,auto,Yahoo,0
+FFB,FFB,Fortress Real Estate,0,,,auto,Yahoo,0
+ARI,ARI,African Rainbow Minerals,0,,,auto,Yahoo,0
+SRE,SRE,Sirius Real Estate,0,,0.40,Manual estimate (SA register share),Yahoo,1
+KRO,KRO,Karooooo,0,,0.10,Manual estimate (SA register share),Yahoo,1
+ADH,ADH,ADvTECH,0,,,auto,Yahoo,0
+AVI,AVI,AVI,0,,,auto,Yahoo,0
+HYP,HYP,Hyprop,0,,,auto,Yahoo,0
+TKG,TKG,Telkom,0,,,auto,Yahoo,0
+DCP,DCP,Dis-Chem,0,,,auto,Yahoo,0
+BYI,BYI,Bytes Technology,0,,0.25,Manual estimate (SA register share),Yahoo,1
+NTC,NTC,Netcare,0,,,auto,Yahoo,0
+OMN,OMN,Omnia,0,,,auto,Yahoo,0
+GND,GND,Grindrod,0,,,auto,Yahoo,0
+MTH,MTH,Motus,0,,,auto,Yahoo,0
+LHC,LHC,Life Healthcare,0,,,auto,Yahoo,0
+TFG,TFG,Foschini Group,0,,,auto,Yahoo,0
+TRU,TRU,Truworths,0,,,auto,Yahoo,0
+TGA,TGA,Thungela,0,,,auto,Yahoo,0
+EQU,EQU,Equites Property Fund,0,,,auto,Yahoo,0
+CML,CML,Coronation,0,,,auto,Yahoo,0
+PIK,PIK,Pick n Pay,0,,,auto,Yahoo,0
+JSE,JSE,JSE Ltd,0,,,auto,Yahoo,0
